@@ -6,5 +6,5 @@ My background is in project coordination, technical production, and multimedia p
 
 ## Current Project
 
-**Italian Learning App**  
+**Italian Vocabulary Learning App**  
 An AI-assisted language learning application developed from my own Italian learning needs.
