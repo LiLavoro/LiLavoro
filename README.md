@@ -6,13 +6,13 @@ My background is in project coordination, technical production, and multimedia p
 
 ## Current Project
 
-**[Italian Vocabulary Learning App](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App)**  
-An AI-assisted language learning application developed from my own Italian learning needs.
+**[Italian Vocabulary Learning App](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App)**
 
-I initiated the project, translated my own learning needs into requirements, designed the learning workflow, and used AI-assisted development tools to implement and refine it through hands-on testing.
+I built this app because I kept forgetting Italian words I had looked up. It brings word collection, review cards, sentence practice and shadowing into one place.
 
-[View the project and screenshots](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App#screenshots) · [Try the interactive demo — no sign-in or API key required](https://f2bd6a26ea564308bb3f1a3f31f50704.app.codebuddy.work/?demo=1)
+I chose the features, described how they should work and tested each version. I used CodeBuddy extensively for the coding, then worked through bugs and changes as I tried the app.
 
-The guided demo uses saved AI examples and needs no sign-in or API key. See the project README for the full application and demo scope.
+[Project and screenshots](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App#screenshots) · [Try the demo](https://f2bd6a26ea564308bb3f1a3f31f50704.app.codebuddy.work/?demo=1)
 
+The demo uses saved AI responses, so you can try it without logging in or setting up a key.
 
