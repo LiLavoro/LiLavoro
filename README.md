@@ -11,7 +11,8 @@ An AI-assisted language learning application developed from my own Italian learn
 
 I initiated the project, translated my own learning needs into requirements, designed the learning workflow, and used AI-assisted development tools to implement and refine it through hands-on testing.
 
-[View the project and screenshots](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App#screenshots) · [Try the live demo](https://3b59dfb43ad84cc18294a37d89970a7d.app.codebuddy.work/)
+[View the project and screenshots](https://github.com/LiLavoro/Italian-Vocabulary-Learning-App#screenshots) · [Try the interactive demo — no sign-in or API key required](https://f2bd6a26ea564308bb3f1a3f31f50704.app.codebuddy.work/?demo=1)
 
-The demo supports guest browsing. AI features may require a visitor-provided API key; see the project README for access notes and current limitations.
+The guided demo uses saved AI examples and needs no sign-in or API key. See the project README for the full application and demo scope.
+
 
